@@ -10,6 +10,7 @@
 void main()
 {
 	extern int jet;
+	int jjj;
 	
 	
 	//***********int¿‡–Õ≈≈–Ú******************//
