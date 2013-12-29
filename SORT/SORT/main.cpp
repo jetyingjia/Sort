@@ -13,7 +13,7 @@ void main()
 	int jjj;
 	
 	
-	//***********int类型排序******************//
+	//***********int  sort******************//
 	SORT< std::vector<int> > iSort;
 	std::cout<<"Please initial N numbers: ";
 	int N;
@@ -98,7 +98,7 @@ void main()
 	
 	
 
-	//***********string类型排序*************//
+	//***********string  sort*************//
 	SORT< std::vector<std::string> > sSort;
 	std::cout<<"Please initial M strings: ";
 	int M;
